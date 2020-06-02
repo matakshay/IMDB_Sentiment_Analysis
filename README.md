@@ -86,3 +86,20 @@ This dataset has been a benchmark for many Sentiment Analysis tasks, since it wa
         </p>
     </li>
 </ul>
+<h2 id="acknowledgement">Acknowledgement</h2>
+<p align="justify">
+    I studied and referred many articles, books and research papers while working on this project. I am especially grateful to the authors of the following for their work -
+</p>
+    <ul>
+        <li> https://colah.github.io/posts/2015-08-Understanding-LSTMs/ </li>
+        <li> https://medium.com/@romannempyre/sentiment-analysis-using-1d-convolutional-neural-networks-part-1-f8b6316489a2 </li>
+        <li> Deep Learning with Python by François Chollet </li>
+    </ul>
+<p align="justify">
+    Some other websites I referred -
+</p>
+<ul>
+    <li> https://keras.io/ </li>
+    <li> https://en.wikipedia.org/wiki/Naive_Bayes_classifier </li>
+    <li> https://en.wikipedia.org/wiki/Sentiment_analysis </li>
+</ul>
