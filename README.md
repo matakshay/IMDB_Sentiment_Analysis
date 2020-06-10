@@ -86,6 +86,47 @@ This dataset has been a benchmark for many Sentiment Analysis tasks, since it wa
         </p>
     </li>
 </ul>
+
+<h2 id="usage">Usage</h2>
+<p align="justify"> On the terminal run the following commands- </p>
+    <ol>
+        <li>
+            Install all dependencies
+            <br>
+            <code> pip install python3 </code>
+            <br>
+            <code> pip install matplotlib </code>
+            <br>
+            <code> pip install tensorflow </code>
+            <br>
+            <code> pip install keras </code>
+        </li>
+        <li>
+            Clone this repository on your system and head over to it
+            <br>
+              <code> git clone https://github.com/matakshay/IMDB_Sentiment_Analysis </code>
+            <br>
+            <code size> cd IMDB_Sentiment_Analysis </code>
+        </li>
+        <li>
+            Either of the CNN or LSTM model can be used to predict for a custom movie review. <br>
+            To run the LSTM model -
+            <br>
+                <code> python3 LSTM_predict.py </code>
+            <br>
+            This loads the LSTM model with its weights and prompts for an input.       
+            <br><br>
+            To run the CNN model -
+            <br>
+                <code> python3 CNN_predict.py </code>
+            <br>
+            This loads the CNN model with its weights and prompts for an input.
+        </li>
+        <li>
+            Type a movie review (in English) in the terminal and get its sentiment class predicted by the model
+        </li>
+    </ol>
+    
 <h2 id="acknowledgement">Acknowledgement</h2>
 <p align="justify">
     I studied and referred many articles, books and research papers while working on this project. I am especially grateful to the authors of the following for their work -
