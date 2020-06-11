@@ -87,6 +87,14 @@ This dataset has been a benchmark for many Sentiment Analysis tasks, since it wa
     </li>
 </ul>
 
+<h2 id="frameworks">Frameworks, Libraries & Languages</h2>
+<ul>
+    <li> Keras </li>
+    <li> Tensorflow </li>
+    <li> Python3 </li>
+    <li> Matplotlib </li>
+</ul>
+
 <h2 id="usage">Usage</h2>
 <p align="justify"> On the terminal run the following commands- </p>
     <ol>
