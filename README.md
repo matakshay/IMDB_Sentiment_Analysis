@@ -4,6 +4,21 @@
 This is a Sentiment Analysis Model built using Machine Learning and Deep Learning to classify movie reviews from the IMDB dataset into "positive" and "negative" classes.
 </p>
 
+<h3> TABLE OF CONTENTS </h3>
+<ol type="I">
+    <li><a href="#intro"> Introduction </a></li>
+    <li><a href="#dataset"> Dataset </a></li>
+    <li><a href="#models"> Models </a></li>
+        <ol type="i">
+            <li><a href="#lstm"> Long Short-Term Memory Network </a></li>
+            <li><a href="#convnet"> Convolutional Network </a></li>
+        </ol>
+    </li>
+    <li><a href="#frameworks"> Frameworks, Libraries & Languages </a></li>
+    <li><a href="#usage"> Usage </a></li>
+    <li><a href="#acknowledgement"> Acknowledgement </a></li>
+</ol>
+
 <h2 id="intro">Introduction</h2>
 
 <p align="justify">
