@@ -1,5 +1,13 @@
 <h1>IMDB Sentiment Analysis Model</h1>
 
+<p align="center">
+<img src="https://img.shields.io/badge/made%20by%20-matakshay-blue">
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+<img src="https://img.shields.io/badge/contributions-welcome-brightgreen">
+<img src="https://img.shields.io/badge/python-v3.7%2B-orange" />
+<img src="https://img.shields.io/badge/tensorflow-2.1.0-yellow">
+</p>
+
 <p align="justify">
 This is a Sentiment Analysis Model built using Machine Learning and Deep Learning to classify movie reviews from the IMDB dataset into "positive" and "negative" classes.
 </p>
